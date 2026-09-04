@@ -3,8 +3,8 @@
     "name": "Junteng Liu",
     "email": "jliugi@connect.ust.hk",
     "phone": "",
-    "website": "https://dowertn.github.io/LJT-Homepage",
-    "summary": "PhD candidate at HKUST NLP Group. Research in NLP and machine learning with interests in LLM reasoning, reinforcement learning, hallucination in VLMs, truthfulness, and interpretability.",
+    "website": "",
+    "summary": "First-year PhD candidate at HKUST NLP Group. Research in natural language processing and machine learning.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -36,21 +36,21 @@
       "position": "Research Intern",
       "startDate": "2025-02",
       "endDate": "",
-      "summary": "Research internship focused on large language models and reasoning."
+      "summary": ""
     },
     {
       "company": "Tencent WXG",
       "position": "Research Intern",
       "startDate": "2024-06",
       "endDate": "2024-09",
-      "summary": "Research internship in applied NLP and machine learning."
+      "summary": ""
     },
     {
       "company": "Shanghai AI Lab",
       "position": "Research Intern",
       "startDate": "2023-06",
       "endDate": "2023-12",
-      "summary": "Research internship on foundation models and multimodal systems."
+      "summary": ""
     }
   ],
   "education": [
@@ -76,11 +76,11 @@
   "skills": [
     {
       "name": "Research",
-      "keywords": ["Natural Language Processing", "Machine Learning", "Large Language Models", "Multimodal Models"]
+      "keywords": ["Natural Language Processing", "Machine Learning"]
     },
     {
-      "name": "Methods",
-      "keywords": ["Reinforcement Learning", "Reasoning", "Interpretability", "Evaluation"]
+      "name": "Topics",
+      "keywords": ["LLM Reasoning and Reinforcement Learning", "Hallucination in Vision-Language Models", "LLM Truthfulness and Interpretability"]
     }
   ],
   "languages": [],
@@ -96,21 +96,21 @@
       "publisher": "Preprint, 2025",
       "releaseDate": "2025-01-01",
       "website": "",
-      "summary": "First-author work on scalable generation of verifiable reasoning data for learning logical reasoning."
+      "summary": ""
     },
     {
       "name": "On the Perception Bottleneck of VLMs for Chart Understanding",
       "publisher": "Preprint, 2025",
       "releaseDate": "2025-01-01",
       "website": "",
-      "summary": "First-author study of perception limitations in vision-language models for charts."
+      "summary": ""
     },
     {
       "name": "On the Universal Truthfulness Hyperplane Inside LLMs",
       "publisher": "EMNLP 2024",
       "releaseDate": "2024-01-01",
       "website": "",
-      "summary": "First-author paper exploring internal representations related to truthfulness in LLMs."
+      "summary": ""
     }
   ],
   "presentations": [],
