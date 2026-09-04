@@ -10,6 +10,14 @@ I previously completed my B.Eng. at Shanghai Jiao Tong University (SJTU) in 2024
 
 My work includes first-author research on verifiable reasoning data, chart understanding for VLMs, and the geometry of truthfulness inside large language models. I also co-authored work on hallucination mitigation and evaluation suites for foundation models.
 
+Selected publications
+======
+A quick preview of recent work. You can find the full list on the Publications page.
+
+- SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond — Preprint, 2025. (/publication/synlogic)
+- On the Perception Bottleneck of VLMs for Chart Understanding — Preprint, 2025. (/publication/vlm-chart-understanding)
+- On the Universal Truthfulness Hyperplane Inside LLMs — EMNLP 2024. (/publication/universal-truthfulness-hyperplane)
+
 If you’re interested in collaborating or learning more, feel free to reach out.
 
 Contact: jliugi@connect.ust.hk  
